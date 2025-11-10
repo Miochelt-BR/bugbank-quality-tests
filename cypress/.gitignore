@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Cypress screenshots e vídeos
+cypress/screenshots/
+cypress/videos/
+
+# Relatórios gerados localmente
+cypress/reports/
+mochawesome-report/
+mochawesome.json
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Configurações locais do Cypress
+cypress.env.json
+
+# Pastas de build (caso tenha)
+dist/
+build/
+
+# Ambiente do sistema
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+ehthumbs.db
+desktop.ini
