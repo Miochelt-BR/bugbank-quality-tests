@@ -4,4 +4,6 @@ describe('Fluxo completo de cadastro', () => {
   })
   
     
-})
+});
+
+it('teste', function() {});
