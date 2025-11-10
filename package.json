@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/Miochelt-BR/bugbank-quality-tests#readme",
   "devDependencies": {
-    "cypress": "^15.6.0"
+    "cypress": "^15.6.0",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.0.0",
+    "mochawesome-report-generator": "^6.3.2"
   }
 }

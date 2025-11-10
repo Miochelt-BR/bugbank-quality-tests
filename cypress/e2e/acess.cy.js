@@ -1,4 +1,4 @@
-describe('Fluxo completo de cadastro', () => {
+describe('acesso', () => {
   it('acesso no site', () => {
     cy.visit('https://bugbank.netlify.app/')
   })
